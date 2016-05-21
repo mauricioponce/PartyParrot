@@ -1,11 +1,16 @@
 # PartyParrot
-A party parrot made with libraries
+##A party parrot made with libraries
 
 The party parrot that changes color when you shake the phone built with libraries.
 
-http://cultofthepartyparrot.com/
+All about party parrot in [cult of party parrot](http://cultofthepartyparrot.com/).
 
-http://sporklibrary.github.io
-https://github.com/nisrulz/Sensey
-https://github.com/lzyzsd/AndroidRandomColor
-https://github.com/koral--/android-gif-drawable/tree/master/src/main/java/pl/droidsonroids/gif
+Cool libraries:
+
+* [Spork](http://sporklibrary.github.io)
+
+* [Sensey](https://github.com/nisrulz/Sensey)
+
+* [Random color](https://github.com/lzyzsd/AndroidRandomColor)
+
+* [Gif](https://github.com/koral--/android-gif-drawable/tree/master/src/main/java/pl/droidsonroids/gif)
