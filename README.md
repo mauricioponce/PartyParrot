@@ -3,6 +3,8 @@
 
 The party parrot that changes color when you shake the phone built with libraries.
 
+![party parrot](https://github.com/mauricioponce/PartyParrot/blob/master/party_parrot.gif)
+
 All about party parrot in [cult of party parrot](http://cultofthepartyparrot.com/).
 
 Cool libraries:
